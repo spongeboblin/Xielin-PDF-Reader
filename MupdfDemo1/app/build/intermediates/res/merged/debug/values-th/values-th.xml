@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"นำทางไปหน้าแรก"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"นำทางขึ้น"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"ตัวเลือกอื่น"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"เสร็จสิ้น"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"ดูทั้งหมด"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"เลือกแอป"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ปิด"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"เปิด"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"ค้นหา…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"ล้างข้อความค้นหา"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"ข้อความค้นหา"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"ค้นหา"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"ส่งข้อความค้นหา"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"ค้นหาด้วยเสียง"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"แชร์กับ"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"แชร์กับ %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"ยุบ"</string>
+    <string name="accept">ยอมรับ</string>
+    <string name="app_name">MuPDF</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="cannot_open_buffer">ไม่สามารถเปิดบัฟเฟอร์</string>
+    <string name="cannot_open_document">ไม่สามารถเปิดเอกสาร</string>
+    <string name="cannot_open_document_Reason">ไม่สามารถเปิดเอกสาร: %1$s</string>
+    <string name="cannot_open_file_Path">ไม่สามารถเปิดไฟล์: %1$s</string>
+    <string name="choose_value">เลือกค่า</string>
+    <string name="copied_to_clipboard">คัดลอกไปที่คลิปบอร์ดแล้ว</string>
+    <string name="copy">คัดลอก</string>
+    <string name="copy_text">คัดลอกข้อความ</string>
+    <string name="copy_text_to_the_clipboard">คัดลอกข้อความไปที่คลิปบอร์ด</string>
+    <string name="delete">ลบ</string>
+    <string name="dismiss">เลิกใช้</string>
+    <string name="document_has_changes_save_them_">เอกสารมีการเปลี่ยนแปลง ต้องการบันทึกหรือไม่</string>
+    <string name="draw_annotation">เขียนคำอธิบายประกอบ</string>
+    <string name="edit_annotations">แก้ไขคำอธิบายประกอบ</string>
+    <string name="enter_password">ป้อนรหัสผ่าน</string>
+    <string name="entering_reflow_mode">เข้าสู่โหมดเรียงหน้ากระดาษใหม่</string>
+    <string name="fill_out_text_field">เติมในช่องข้อความ</string>
+    <string name="format_currently_not_supported">ไม่รองรับรูปแบบในขณะนี้</string>
+    <string name="highlight">ไฮไลท์</string>
+    <string name="ink">หมึก</string>
+    <string name="leaving_reflow_mode">ออกจากโหมดเรียงหน้ากระดาษใหม่</string>
+    <string name="more">เพิ่มเติม</string>
+    <string name="no">ไม่</string>
+    <string name="no_further_occurrences_found">ไม่พบเหตุการณ์ที่เกิดขึ้นเพิ่มเติม</string>
+    <string name="no_media_hint">การแบ่งปันสื่อจัดเก็บข้อมูลกับพีซีสามารถทำให้สื่อจัดเก็บข้อมูลไม่สามารถเข้าถึงได้</string>
+    <string name="no_media_warning">สื่อเก็บข้อมูลไม่ปรากฏ</string>
+    <string name="no_text_selected">ไม่มีข้อความที่เลือก</string>
+    <string name="not_supported">ไม่รองรับ</string>
+    <string name="nothing_to_save">ไม่มีอะไรให้บันทึก</string>
+    <string name="okay">ตกลง</string>
+    <string name="outline_title">สารบัญ</string>
+    <string name="parent_directory">[ขึ้นหนึ่งระดับ]</string>
+    <string name="picker_title_App_Ver_Dir">%1$s %2$s: %3$s</string>
+    <string name="print">พิมพ์</string>
+    <string name="print_failed">พิมพ์ล้มเหลว</string>
+    <string name="save">บันทึก</string>
+    <string name="search">ค้นหา</string>
+    <string name="search_backwards">ค้นหาย้อนกลับ</string>
+    <string name="search_document">ค้นหาเอกสาร</string>
+    <string name="search_forwards">ค้นหาไปข้างหน้า</string>
+    <string msgid="146198913615257606" name="search_menu_title">"ค้นหา"</string>
+    <string name="searching_">กำลังค้นหา&amp;#8230;</string>
+    <string name="select">เลือก</string>
+    <string name="select_text">เลือกข้อความ</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="strike_out">ขีดทับ</string>
+    <string name="text_not_found">ไม่พบข้อความ</string>
+    <string name="toggle_links">ไฮไลท์และเปิดใช้งานลิงก์</string>
+    <string name="underline">ขีดเส้นใต้</string>
+    <string name="yes">ใช่</string>
+</resources>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Zur Startseite"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s: %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s: %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Nach oben"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Weitere Optionen"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Fertig"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Alle ansehen"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"App auswählen"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"Aus"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"An"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Suchen…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Suchanfrage löschen"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Suchanfrage"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Suchen"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Suchanfrage senden"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Sprachsuche"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Freigeben für"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Freigeben für %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Minimieren"</string>
+    <string name="accept">Akzeptieren</string>
+    <string name="app_name">MuPDF</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="cannot_open_buffer">Zwischenspeicher kann nicht geöffnet werden</string>
+    <string name="cannot_open_document">Dokument kann nicht geöffnet werden</string>
+    <string name="cannot_open_document_Reason">Dokument kann nicht geöffnet werden: %1$s</string>
+    <string name="cannot_open_file_Path">Datei kann nicht geöffnet werden: %1$s</string>
+    <string name="choose_value">Wert auswählen</string>
+    <string name="copied_to_clipboard">In die Zwischenanlage kopiert</string>
+    <string name="copy">Kopieren</string>
+    <string name="copy_text">Text kopieren</string>
+    <string name="copy_text_to_the_clipboard">Text in Zwischenablage kopieren</string>
+    <string name="delete">Entfernen</string>
+    <string name="dismiss">Verwerfen</string>
+    <string name="document_has_changes_save_them_">Das Dokument wurde verändert. Sollen die Änderungen gespeichert werden?</string>
+    <string name="draw_annotation">Kommentar einfügen</string>
+    <string name="edit_annotations">Kommentar bearbeiten</string>
+    <string name="enter_password">Passwort eingeben</string>
+    <string name="entering_reflow_mode">Anpassungsmodus wird gestartet</string>
+    <string name="fill_out_text_field">Textfeld ausfüllen</string>
+    <string name="format_currently_not_supported">Format wird momentan nicht unterstützt</string>
+    <string name="highlight">Markieren</string>
+    <string name="ink">Farbe</string>
+    <string name="leaving_reflow_mode">Anpassungsmodus wird beendet</string>
+    <string name="more">Mehr</string>
+    <string name="no">Nein</string>
+    <string name="no_further_occurrences_found">Keine weiteren Treffer</string>
+    <string name="no_media_hint">Die Freigabe des Speichermediums für einen PC kann es unzugänglich machen</string>
+    <string name="no_media_warning">Speichermedium nicht vorhanden</string>
+    <string name="no_text_selected">Kein Text ausgewählt</string>
+    <string name="not_supported">Nicht unterstützt</string>
+    <string name="nothing_to_save">Nichts zum Speichern</string>
+    <string name="okay">OK</string>
+    <string name="outline_title">Inhaltsverzeichnis</string>
+    <string name="parent_directory">[Eine Ebene nach oben]</string>
+    <string name="picker_title_App_Ver_Dir">%1$s %2$s: %3$s</string>
+    <string name="print">Drucken</string>
+    <string name="print_failed">Fehler beim Drucken</string>
+    <string name="save">Speichern</string>
+    <string name="search">Suchen</string>
+    <string name="search_backwards">Rückwärts suchen</string>
+    <string name="search_document">Dokument durchsuchen</string>
+    <string name="search_forwards">Vorwärts suchen</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Suchen"</string>
+    <string name="searching_">Suche…</string>
+    <string name="select">Auswählen</string>
+    <string name="select_text">Text auswählen</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="strike_out">Durchstreichen</string>
+    <string name="text_not_found">Text konnte nicht gefunden werden</string>
+    <string name="toggle_links">Markiere und aktiviere Verknüpfungen</string>
+    <string name="underline">Unterstreichen</string>
+    <string name="yes">Ja</string>
+</resources>

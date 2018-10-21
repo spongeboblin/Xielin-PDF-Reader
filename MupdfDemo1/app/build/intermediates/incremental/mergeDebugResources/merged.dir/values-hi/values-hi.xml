@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"मुख्यपृष्ठ पर नेविगेट करें"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"ऊपर नेविगेट करें"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"अधिक विकल्प"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"पूर्ण"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"सभी देखें"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"कोई एप्‍लिकेशन चुनें"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"बंद"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"चालू"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"खोजा जा रहा है…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"क्‍वेरी साफ़ करें"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"खोज क्वेरी"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"खोजें"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"क्वेरी सबमिट करें"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"ध्वनि खोज"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"इसके द्वारा साझा करें"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%s के साथ साझा करें"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"संक्षिप्त करें"</string>
+    <string name="accept">स्वीकार करें</string>
+    <string name="app_name">MuPDF</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="cannot_open_buffer">बफ़र खोल नहीं सके</string>
+    <string name="cannot_open_document">दस्तावेज़ खोल नहीं सके</string>
+    <string name="cannot_open_document_Reason">दस्तावेज़ नहीं खोल सके: %1$s</string>
+    <string name="cannot_open_file_Path">फ़ाइल खोल नहीं सके: %1$s</string>
+    <string name="choose_value">मान चुनें</string>
+    <string name="copied_to_clipboard">क्लिपबोर्ड में कॉप कर दिया गया</string>
+    <string name="copy">कॉपी करें</string>
+    <string name="copy_text">पाठ कॉपी करें</string>
+    <string name="copy_text_to_the_clipboard">पाठ को क्लिपबोर्ड में कॉपी करें</string>
+    <string name="delete">हटाएँ</string>
+    <string name="dismiss">खारिज करें</string>
+    <string name="document_has_changes_save_them_">दस्तावेज़ में परिवर्तन हैं। उन्हें सहेजें?</string>
+    <string name="draw_annotation">एनोटेशन बनाएँ</string>
+    <string name="edit_annotations">एनोटेशनों को संपादित करें</string>
+    <string name="enter_password">पासवर्ड दर्ज करें</string>
+    <string name="entering_reflow_mode">रीफ़्लो मोड में प्रवेश कर रहे हैं</string>
+    <string name="fill_out_text_field">पाठ फ़ील्ड को भरें</string>
+    <string name="format_currently_not_supported">इस समय इस फ़ॉर्मेट को समर्थन नहीं प्राप्त है</string>
+    <string name="highlight">हाइलाइट करें</string>
+    <string name="ink">स्याही</string>
+    <string name="leaving_reflow_mode">रीफ़्लो मोड को छोड़ रहे हैं</string>
+    <string name="more">और भी</string>
+    <string name="no">नहीं</string>
+    <string name="no_further_occurrences_found">यह और कहीं नहीं मिला</string>
+    <string name="no_media_hint">संग्रह माध्यम को पीसी के साथ साझा करने से उस तक पहुँचना मुश्किल हो सकता है</string>
+    <string name="no_media_warning">संग्रह माध्यम मौजूद नहीं है</string>
+    <string name="no_text_selected">कोई भी पाठ नहीं चुना गया है</string>
+    <string name="not_supported">असमर्थित</string>
+    <string name="nothing_to_save">सहेजने के लिए कुछ नहीं है</string>
+    <string name="okay">ठीक है</string>
+    <string name="outline_title">विषय सूची</string>
+    <string name="parent_directory">[एक स्तर ऊपर]</string>
+    <string name="picker_title_App_Ver_Dir">%1$s%2$s:%3$s</string>
+    <string name="print">मुद्रित करें</string>
+    <string name="print_failed">मुद्रण विफल हुआ</string>
+    <string name="save">सहेजें</string>
+    <string name="search">खोजें</string>
+    <string name="search_backwards">पीछे की ओर खोजें</string>
+    <string name="search_document">दस्तावेज़ में खोजें</string>
+    <string name="search_forwards">आगे की ओर खोजें</string>
+    <string msgid="146198913615257606" name="search_menu_title">"खोज"</string>
+    <string name="searching_">&amp;#8230 को खोज रहे हैं;</string>
+    <string name="select">चुनें</string>
+    <string name="select_text">पाठ चुनें</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="strike_out">काटें</string>
+    <string name="text_not_found">पाठ नहीं मिला</string>
+    <string name="toggle_links">लिंकों को हाइलाइट और सक्षम करें</string>
+    <string name="underline">रेखांकित करें</string>
+    <string name="yes">हाँ</string>
+</resources>

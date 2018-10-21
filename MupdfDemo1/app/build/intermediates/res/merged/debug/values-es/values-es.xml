@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ir a la pantalla de inicio"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Desplazarse hacia arriba"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Más opciones"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Listo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Ver todo"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Seleccionar una aplicación"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"NO"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"SÍ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Buscar…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Borrar consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Buscar"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Búsqueda por voz"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Compartir con"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Compartir con %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Contraer"</string>
+    <string name="accept">Aceptar</string>
+    <string name="app_name">MuPDF</string>
+    <string name="cancel">Cancelar</string>
+    <string name="cannot_open_buffer">No se puede abrir el búfer</string>
+    <string name="cannot_open_document">No se puede abrir el documento</string>
+    <string name="cannot_open_document_Reason">No se puede abrir el documento:%1$s</string>
+    <string name="cannot_open_file_Path">No se puede abrir el archivo: %1$s</string>
+    <string name="choose_value">Elegir valor</string>
+    <string name="copied_to_clipboard">Copiado al portapapeles</string>
+    <string name="copy">Copiar</string>
+    <string name="copy_text">copiar texto</string>
+    <string name="copy_text_to_the_clipboard">Copiar texto al portapapeles</string>
+    <string name="delete">Borrar</string>
+    <string name="dismiss">Ignorar</string>
+    <string name="document_has_changes_save_them_">El documento tiene cambios. ¿Guardar?</string>
+    <string name="draw_annotation">Dibujar anotación</string>
+    <string name="edit_annotations">Editar anotaicones</string>
+    <string name="enter_password">Introducir contraseña</string>
+    <string name="entering_reflow_mode">Entrando en el modo de redistribución</string>
+    <string name="fill_out_text_field">Rellenar el campo de texto</string>
+    <string name="format_currently_not_supported">Formato actualmente no soportado</string>
+    <string name="highlight">Resaltar</string>
+    <string name="ink">Tinta</string>
+    <string name="leaving_reflow_mode">Saliendo del modo de redistribución</string>
+    <string name="more">Más</string>
+    <string name="no">No</string>
+    <string name="no_further_occurrences_found">No se han encontrado más casos</string>
+    <string name="no_media_hint">Compartir el medio de almacenamiento con un PC puede hacerlo inaccesible</string>
+    <string name="no_media_warning">Medio de almacenimiento no presente</string>
+    <string name="no_text_selected">Texto no seleccionado</string>
+    <string name="not_supported">No aceptado</string>
+    <string name="nothing_to_save">Nada que guardar</string>
+    <string name="okay">OK</string>
+    <string name="outline_title">Tabla de contenidos</string>
+    <string name="parent_directory">[Subir un nivel]</string>
+    <string name="picker_title_App_Ver_Dir">%1$s %2$s: %3$s</string>
+    <string name="print">Imprimir</string>
+    <string name="print_failed">No se ha imprimido</string>
+    <string name="save">Guardar</string>
+    <string name="search">Buscar</string>
+    <string name="search_backwards">Buscar hacia atrás</string>
+    <string name="search_document">Buscar documento</string>
+    <string name="search_forwards">Buscar hacia adelante</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Buscar"</string>
+    <string name="searching_">Buscando&amp;#8230;</string>
+    <string name="select">Seleccionar</string>
+    <string name="select_text">Seleccionar texto</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"+999"</string>
+    <string name="strike_out">Tachar</string>
+    <string name="text_not_found">Texto no encontrado</string>
+    <string name="toggle_links">Resaltar y activar</string>
+    <string name="underline">Subrayar</string>
+    <string name="yes">Sí</string>
+</resources>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Visa startsidan"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navigera uppåt"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Fler alternativ"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Klart"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Visa alla"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Välj en app"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"AV"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"PÅ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Sök …"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Ta bort frågan"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Sökfråga"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Sök"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Skicka fråga"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Röstsökning"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Dela med"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Dela med %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Komprimera"</string>
+    <string name="accept">Acceptera</string>
+    <string name="app_name">MuPDF</string>
+    <string name="cancel">Avbryt</string>
+    <string name="cannot_open_buffer">Kan inte öppna buffer</string>
+    <string name="cannot_open_document">Kan inte öppna dokument</string>
+    <string name="cannot_open_document_Reason">Kan inte öppna dokument: %1$s</string>
+    <string name="cannot_open_file_Path">Kan inte öppna fil: %1$s</string>
+    <string name="choose_value">Välj värde</string>
+    <string name="copied_to_clipboard">Kopierat till klippbordet</string>
+    <string name="copy">Kopiera</string>
+    <string name="copy_text">kopiera text</string>
+    <string name="copy_text_to_the_clipboard">Kopiera text till klippbordet</string>
+    <string name="delete">Ta bort</string>
+    <string name="dismiss">Avfärda</string>
+    <string name="document_has_changes_save_them_">Dokumentet har ändrats. Spara ändringar?</string>
+    <string name="draw_annotation">Rita annotation</string>
+    <string name="edit_annotations">Ändra annotation</string>
+    <string name="enter_password">Fyll i lösenord</string>
+    <string name="entering_reflow_mode">Aktiverar reflow-läge</string>
+    <string name="fill_out_text_field">Fyll i textfält</string>
+    <string name="format_currently_not_supported">Formatat stöds inte för närvarande</string>
+    <string name="highlight">Markera</string>
+    <string name="ink">Bläck</string>
+    <string name="leaving_reflow_mode">Lämnar reflow-läge</string>
+    <string name="more">Mer</string>
+    <string name="no">Nej</string>
+    <string name="no_further_occurrences_found">Inga flera förekomster hittades</string>
+    <string name="no_media_hint">Att dela lagringsmediet med en PC kan göra den oåtkomlig</string>
+    <string name="no_media_warning">Lagringsmedia finns inte</string>
+    <string name="no_text_selected">Ingen text har valts</string>
+    <string name="not_supported">Stöds ej</string>
+    <string name="nothing_to_save">Inget att spara</string>
+    <string name="okay">OK</string>
+    <string name="outline_title">Innehållsförteckning</string>
+    <string name="parent_directory">[Upp en nivå]</string>
+    <string name="picker_title_App_Ver_Dir">%1$s %2$s: %3$s</string>
+    <string name="print">Skriv ut</string>
+    <string name="print_failed">Utskrift misslyckades</string>
+    <string name="save">Spara</string>
+    <string name="search">Sök</string>
+    <string name="search_backwards">Sök bakåt</string>
+    <string name="search_document">Sök dokument</string>
+    <string name="search_forwards">Sök framåt</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Sök"</string>
+    <string name="searching_">Letar&amp;#8230;</string>
+    <string name="select">Välj</string>
+    <string name="select_text">Välj text</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="strike_out">Stryk</string>
+    <string name="text_not_found">Text hittades ej</string>
+    <string name="toggle_links">Markera och aktivera länkar</string>
+    <string name="underline">Understryk</string>
+    <string name="yes">Ja</string>
+</resources>

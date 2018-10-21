@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ana ekrana git"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Yukarı git"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Diğer seçenekler"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Bitti"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Tümünü göster"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Bir uygulama seçin"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"KAPAT"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"AÇ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Ara…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Sorguyu temizle"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Arama sorgusu"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Ara"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Sorguyu gönder"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Sesli arama"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Şununla paylaş"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%s ile paylaş"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Daralt"</string>
+    <string name="accept">Kabul et</string>
+    <string name="app_name">MuPDF</string>
+    <string name="cancel">İptal et</string>
+    <string name="cannot_open_buffer">Arabellek açılamıyor</string>
+    <string name="cannot_open_document">Belge açılamıyor</string>
+    <string name="cannot_open_document_Reason">Belge açılamıyor: %1$s</string>
+    <string name="cannot_open_file_Path">Dosya açılamıyor: %1$s</string>
+    <string name="choose_value">Değeri seç</string>
+    <string name="copied_to_clipboard">Panoya kopyalandı</string>
+    <string name="copy">Kopyala</string>
+    <string name="copy_text">metni kopyala</string>
+    <string name="copy_text_to_the_clipboard">Metni panoya kopyala</string>
+    <string name="delete">Sil</string>
+    <string name="dismiss">Bırak</string>
+    <string name="document_has_changes_save_them_">Belgede değişiklikler var. Kaydetmek istiyor musunuz?</string>
+    <string name="draw_annotation">Ek açıklama çiz</string>
+    <string name="edit_annotations">Ek açıklamalar düzenle</string>
+    <string name="enter_password">Şifreyi gir</string>
+    <string name="entering_reflow_mode">Yeniden akma moduna giriyor</string>
+    <string name="fill_out_text_field">Metin alanını doldurun</string>
+    <string name="format_currently_not_supported">Bu format şu an için desteklenmiyor</string>
+    <string name="highlight">Vurgula</string>
+    <string name="ink">Mürekkep</string>
+    <string name="leaving_reflow_mode">Yeniden akma modundan çıkılıyor</string>
+    <string name="more">Daha fazla</string>
+    <string name="no">Hayır</string>
+    <string name="no_further_occurrences_found">Daha fazla öğe bulunamadı</string>
+    <string name="no_media_hint">Depolama ortamının bilgisayar ile paylaşımı onu erişilmez yapabilir</string>
+    <string name="no_media_warning">Depolama ortamı bulunmuyor</string>
+    <string name="no_text_selected">Seçili metin bulunmuyor</string>
+    <string name="not_supported">Desteklenmiyor</string>
+    <string name="nothing_to_save">Kaydedecek bir şey yok</string>
+    <string name="okay">Tamam</string>
+    <string name="outline_title">İçindekiler Tablosu</string>
+    <string name="parent_directory">[Bir seviye üste çık]</string>
+    <string name="picker_title_App_Ver_Dir">%1$s %2$s: %3$s</string>
+    <string name="print">Yazdır</string>
+    <string name="print_failed">Yazdırma başarısız oldu</string>
+    <string name="save">Kaydet</string>
+    <string name="search">Ara</string>
+    <string name="search_backwards">Geriye doğru ara</string>
+    <string name="search_document">Belge ara</string>
+    <string name="search_forwards">İleriye doğru ara</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Ara"</string>
+    <string name="searching_">Aranıyor&amp;#8230;</string>
+    <string name="select">Seç</string>
+    <string name="select_text">Metin seç</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="strike_out">Üstünü çiz</string>
+    <string name="text_not_found">Metin bulunamadı</string>
+    <string name="toggle_links">Bağlantıları vurgula ve etkinleştir</string>
+    <string name="underline">Altını çiz</string>
+    <string name="yes">Evet</string>
+</resources>

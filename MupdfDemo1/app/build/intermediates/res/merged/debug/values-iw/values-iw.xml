@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"נווט לדף הבית"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"‏%1$s‏, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"‏%1$s‏, %2$s‏, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"נווט למעלה"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"עוד אפשרויות"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"בוצע"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"ראה הכל"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"בחר אפליקציה"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"כבוי"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"פועל"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"חפש…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"מחק שאילתה"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"שאילתת חיפוש"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"חפש"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"שלח שאילתה"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"חיפוש קולי"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"שתף עם"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"‏שתף עם %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"כווץ"</string>
+    <string name="accept">קבל</string>
+    <string name="app_name">MuPDF</string>
+    <string name="cancel">בטל</string>
+    <string name="cannot_open_buffer">אין אפשרות לפתוח מאגר</string>
+    <string name="cannot_open_document">אין אפשרות לפתוח מסמך</string>
+    <string name="cannot_open_document_Reason">אין אפשרות לפתוח מסמך: %1$s</string>
+    <string name="cannot_open_file_Path">אין אפשרות לפתוח קובץ: %1$s</string>
+    <string name="choose_value">בחר ערך</string>
+    <string name="copied_to_clipboard">הועתק ללוח</string>
+    <string name="copy">העתק</string>
+    <string name="copy_text">העתק טקסט</string>
+    <string name="copy_text_to_the_clipboard">העתק טקסט ללוח</string>
+    <string name="delete">מחק</string>
+    <string name="dismiss">התעלם</string>
+    <string name="document_has_changes_save_them_">קיימים שינויים במסמך. לשמור אותם?</string>
+    <string name="draw_annotation">רשום ביאור</string>
+    <string name="edit_annotations">ערוך ביאורים</string>
+    <string name="enter_password">הזן סיסמה</string>
+    <string name="entering_reflow_mode">כניסה למצב הזרמה מחדש</string>
+    <string name="fill_out_text_field">מלא את שדה הטקסט</string>
+    <string name="format_currently_not_supported">תבנית לא נתמכת כעת</string>
+    <string name="highlight">הבלטה</string>
+    <string name="ink">דיו</string>
+    <string name="leaving_reflow_mode">יציאה ממצב הזרמה מחדש</string>
+    <string name="more">עוד</string>
+    <string name="no">לא</string>
+    <string name="no_further_occurrences_found">לא עוד</string>
+    <string name="no_media_hint">שיתוף מדיית האחסון עם מחשב עשויה להפוך אותה לבלתי נגישה</string>
+    <string name="no_media_warning">מדיית אחסון לא קיימת</string>
+    <string name="no_text_selected">לא נבחר טקסט</string>
+    <string name="not_supported">לא נתמך</string>
+    <string name="nothing_to_save">אין מה לשמור</string>
+    <string name="okay">בסדר</string>
+    <string name="outline_title">תוכן העניינים</string>
+    <string name="parent_directory">[למעלה ברמה אחת]</string>
+    <string name="picker_title_App_Ver_Dir">%1$s %2$s: %3$s</string>
+    <string name="print">הדפס</string>
+    <string name="print_failed">ההדפסה נכשלה</string>
+    <string name="save">שמור</string>
+    <string name="search">חפש</string>
+    <string name="search_backwards">חפש אחורה</string>
+    <string name="search_document">חפש במסמך</string>
+    <string name="search_forwards">חפש קדימה</string>
+    <string msgid="146198913615257606" name="search_menu_title">"חפש"</string>
+    <string name="searching_">מחפש&amp;#8230;</string>
+    <string name="select">בחר ערך</string>
+    <string name="select_text">בחר טקסט</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"‎999+‎"</string>
+    <string name="strike_out">הדגש</string>
+    <string name="text_not_found">לא נמצא טקסט</string>
+    <string name="toggle_links">הבלט ואפשר קישורים</string>
+    <string name="underline">קו תחתון</string>
+    <string name="yes">כן</string>
+</resources>

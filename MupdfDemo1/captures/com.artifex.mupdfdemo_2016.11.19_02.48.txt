@@ -1,0 +1,49 @@
+Applications Memory Usage (kB):
+Uptime: 14899780 Realtime: 14899780
+
+** MEMINFO in pid 14773 [com.artifex.mupdfdemo] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap    19340    18668        0       24    33996    33756      239
+  Dalvik Heap    31195    30864        0        0    56534    56397      137
+ Dalvik Other      800      796        0        0                           
+        Stack      364      364        0        0                           
+       Ashmem       14        0        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     3865      340     2380     1284                           
+    .apk mmap      524        0      268        0                           
+    .ttf mmap      220        0      104        0                           
+    .dex mmap     1440       44     1396        0                           
+    .oat mmap     2881        0      896        4                           
+    .art mmap     1541     1024       12        0                           
+   Other mmap       33        8        0        0                           
+    GL mtrack    75772    75772        0        0                           
+      Unknown      181      180        0       48                           
+        TOTAL   138175   128060     5060     1360    90530    90153      376
+ 
+ App Summary
+                       Pss(KB)
+                        ------
+           Java Heap:    31900
+         Native Heap:    18668
+                Code:     5428
+               Stack:      364
+            Graphics:    75772
+       Private Other:      988
+              System:     5055
+ 
+               TOTAL:   138175      TOTAL SWAP (KB):     1360
+ 
+ Objects
+               Views:      112         ViewRootImpl:        2
+         AppContexts:        3           Activities:        2
+              Assets:        3        AssetManagers:        2
+       Local Binders:        9        Proxy Binders:       19
+       Parcel memory:        4         Parcel count:       16
+    Death Recipients:        0      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 

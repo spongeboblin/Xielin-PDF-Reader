@@ -1,0 +1,148 @@
+TASK com.artifex.mupdfdemo id=31
+  ACTIVITY com.artifex.mupdfdemo/.MuPDFActivity 993916f pid=14773
+    Local Activity 29bf95e State:
+      mResumed=true mStopped=false mFinished=false
+      mChangingConfigurations=false
+      mCurrentConfig={1.0 460mcc7mnc en_US ldltr sw360dp w360dp h580dp 480dpi nrml port finger -keyb/v/h -nav/h suim:1 s.7}
+      mLoadersStarted=true
+      FragmentManager misc state:
+        mHost=android.app.Activity$HostCallbacks@f18013f
+        mContainer=android.app.Activity$HostCallbacks@f18013f
+        mCurState=5 mStateSaved=false mDestroyed=false
+    ViewRoot:
+      mAdded=true mRemoved=false
+      mConsumeBatchedInputScheduled=false
+      mConsumeBatchedInputImmediatelyScheduled=false
+      mPendingInputEventCount=0
+      mProcessInputEventsScheduled=false
+      mTraversalScheduled=false
+      android.view.ViewRootImpl$NativePreImeInputStage: mQueueLength=0
+      android.view.ViewRootImpl$ImeInputStage: mQueueLength=0
+      android.view.ViewRootImpl$NativePostImeInputStage: mQueueLength=0
+    Choreographer:
+      mFrameScheduled=false
+      mLastFrameTime=14681634 (196460 ms ago)
+    View Hierarchy:
+      com.android.internal.policy.PhoneWindow$DecorView{353ea0c V.E...... R....... 0,0-1080,1812}
+        android.widget.LinearLayout{d527f55 V.E...... ........ 0,0-1080,1812}
+          android.view.ViewStub{faa4d6a G.E...... ......I. 0,0-0,0 #102039f android:id/action_mode_bar_stub}
+          android.widget.FrameLayout{915725b V.E...... ........ 0,0-1080,1812 #1020002 android:id/content}
+            android.widget.RelativeLayout{45b9af8 V.E...... ........ 0,0-1080,1812}
+              com.artifex.mupdfdemo.MuPDFActivity$7{808bbd1 V.E...... ........ 0,0-1080,1812}
+                com.artifex.mupdfdemo.MuPDFPageView{997d636 V.E...... ........ 0,143-1080,1670}
+                  com.artifex.mupdfdemo.OpaqueImageView{caed937 V.ED..... ........ 0,0-1080,1527}
+                  com.artifex.mupdfdemo.PageView$3{42b6ea4 V.ED..... ........ 0,0-1080,1527}
+                com.artifex.mupdfdemo.MuPDFPageView{90c440d V.E...... ........ 1100,143-2180,1670}
+                  com.artifex.mupdfdemo.OpaqueImageView{6031fc2 V.ED..... ........ 0,0-1080,1527}
+                  com.artifex.mupdfdemo.PageView$3{50dd1d3 V.ED..... ........ 0,0-1080,1527}
+              android.widget.RelativeLayout{902d110 V.E...... ........ 0,0-1080,1812}
+                android.widget.ViewAnimator{4461409 V.E...... ........ 0,0-1080,144 #7f090000 app:id/switcher}
+                  android.widget.RelativeLayout{3e7760e G.E...... ......ID 0,0-1080,144 #7f090001 app:id/topBar0Main}
+                    android.widget.TextView{c59b82f V.ED..... ........ 0,35-498,108 #7f090002 app:id/docNameText}
+                    android.widget.ImageButton{babee3c IFED..C.. ......I. 936,3-1080,141 #7f090004 app:id/sepsButton}
+                    android.widget.ImageButton{932e7c5 VFED..C.. ......ID 498,0-642,144 #7f090003 app:id/linkButton}
+                    android.widget.ImageButton{4a8e51a VFED..C.. ......ID 642,1-792,142 #7f090005 app:id/reflowButton}
+                    android.widget.ImageButton{dd3a84b GFED..C.. ......I. 0,0-0,0 #7f090006 app:id/outlineButton}
+                    android.widget.ImageButton{567b228 VFED..C.. ......ID 792,0-936,144 #7f090007 app:id/searchButton}
+                    android.widget.ImageButton{85f3b41 VFED..C.. ......ID 936,0-1080,144 #7f090008 app:id/moreButton}
+                  android.widget.RelativeLayout{9e038e6 G.E...... ......I. 0,0-0,0 #7f090009 app:id/topBar1Search}
+                    android.widget.ImageButton{db27e27 VFED..C.. ......I. 0,0-0,0 #7f09000a app:id/cancelSearch}
+                    android.widget.EditText{99c8d4 VFED..CL. ......ID 0,0-0,0 #7f09000b app:id/searchText}
+                    android.widget.ImageButton{4a34a7d VF.D..C.. ......I. 0,0-0,0 #7f09000c app:id/searchBack}
+                    android.widget.ImageButton{3e6fd72 VF.D..C.. ......I. 0,0-0,0 #7f09000d app:id/searchForward}
+                  android.widget.RelativeLayout{2bed5c3 V.E...... ........ 0,0-1080,144 #7f09000e app:id/topBar2Annot}
+                    android.widget.ImageButton{8349e40 VFED..C.. ........ 0,0-144,144 #7f09000f app:id/cancelAnnotButton}
+                    android.widget.ImageButton{c1f1179 VFED..C.. ........ 540,0-672,144 #7f090010 app:id/highlightButton}
+                    android.widget.ImageButton{d237ebe VFED..C.. ........ 672,0-804,144 #7f090011 app:id/underlineButton}
+                    android.widget.ImageButton{daf0b1f VFED..C.. ........ 804,0-936,144 #7f090012 app:id/strikeOutButton}
+                    android.widget.ImageButton{1e55e6c VFED..C.. ........ 936,0-1080,144 #7f090013 app:id/inkButton}
+                  android.widget.RelativeLayout{4f64c35 G.E...... ......I. 0,0-0,0 #7f090014 app:id/topBar3Delete}
+                    android.widget.ImageButton{e14c8ca VFED..C.. ......I. 0,0-0,0 #7f090015 app:id/cancelDeleteButton}
+                    android.widget.TextView{a433a3b V.ED..... ......ID 0,0-0,0 #7f090016 app:id/deleteLabel}
+                    android.widget.ImageButton{efff558 VFED..C.. ......I. 0,0-0,0 #7f090017 app:id/deleteButton}
+                  android.widget.RelativeLayout{9cc76b1 G.E...... ......ID 0,0-1080,144 #7f090018 app:id/topBar4More}
+                    android.widget.ImageButton{61ea796 VFED..C.. ......ID 0,0-144,144 #7f090019 app:id/cancelMoreButton}
+                    android.widget.ImageButton{6213f17 IFED..C.. ......I. 492,0-642,144 #7f09001a app:id/proofButton}
+                    android.widget.ImageButton{2b0f04 VFED..C.. ......ID 642,0-786,144 #7f09001b app:id/printButton}
+                    android.widget.ImageButton{200cced VFED..C.. ......ID 786,0-936,144 #7f09001c app:id/copyTextButton}
+                    android.widget.ImageButton{515a722 VFED..C.. ......ID 936,0-1080,144 #7f09001d app:id/editAnnotButton}
+                  android.widget.RelativeLayout{970b5b3 G.E...... ......ID 0,0-1080,144 #7f09001e app:id/topBar5Accept}
+                    android.widget.ImageButton{7cc1770 VFED..C.. ......ID 0,0-144,144 #7f09001f app:id/cancelAcceptButton}
+                    android.widget.TextView{1aa4ae9 V.ED..... ........ 144,35-936,108 #7f090020 app:id/annotType}
+                    android.widget.ImageButton{18b136e VFED..C.. ......ID 936,9-1080,135 #7f090021 app:id/acceptButton}
+                android.widget.RelativeLayout{d36fa0f V.E...... ........ 0,0-1080,1812 #7f090022 app:id/lowerButtons}
+                  android.widget.SeekBar{7333a9c VFED..... ........ 0,1668-1080,1812 #7f090023 app:id/pageSlider}
+                  android.widget.TextView{d53aca5 V.ED..... ........ 447,1538-633,1620 #7f090024 app:id/pageNumber}
+                android.widget.TextView{7d8f87a I.ED..... ........ 319,865-761,947 #7f090025 app:id/info}
+    Looper (main, tid 1) {b73282b}
+      (Total messages: 0, polling=false, quitting=false)
+
+  ACTIVITY com.artifex.mupdfdemo/.ChoosePDFActivity c96cd27 pid=14773
+    Local Activity ae39066 State:
+      mResumed=false mStopped=true mFinished=false
+      mChangingConfigurations=false
+      mCurrentConfig={1.0 460mcc7mnc en_US ldltr sw360dp w360dp h580dp 480dpi nrml port finger -keyb/v/h -nav/h suim:1 s.7}
+      mLoadersStarted=true
+      FragmentManager misc state:
+        mHost=android.app.Activity$HostCallbacks@2876488
+        mContainer=android.app.Activity$HostCallbacks@2876488
+        mCurState=3 mStateSaved=true mDestroyed=false
+    ViewRoot:
+      mAdded=true mRemoved=false
+      mConsumeBatchedInputScheduled=false
+      mConsumeBatchedInputImmediatelyScheduled=false
+      mPendingInputEventCount=0
+      mProcessInputEventsScheduled=false
+      mTraversalScheduled=false
+      android.view.ViewRootImpl$NativePreImeInputStage: mQueueLength=0
+      android.view.ViewRootImpl$ImeInputStage: mQueueLength=0
+      android.view.ViewRootImpl$NativePostImeInputStage: mQueueLength=0
+    Choreographer:
+      mFrameScheduled=false
+      mLastFrameTime=14681634 (196466 ms ago)
+    View Hierarchy:
+      com.android.internal.policy.PhoneWindow$DecorView{d776e21 I.E...... R......D 0,0-1080,1812}
+        android.widget.LinearLayout{dee2246 V.E...... .......D 0,0-1080,1812}
+          android.view.ViewStub{4fa1c07 G.E...... ......I. 0,0-0,0 #102039f android:id/action_mode_bar_stub}
+          android.widget.FrameLayout{7724134 V.E...... ......ID 0,72-1080,147}
+            android.widget.TextView{dbbcb5d V.ED..... ........ 12,2-1068,70 #1020016 android:id/title}
+          android.widget.FrameLayout{7da1cd2 V.E...... ........ 0,147-1080,1812 #1020002 android:id/content}
+            android.widget.ListView{91271a3 VFED.VC.. .F...... 0,0-1080,1665 #102000a android:id/list}
+              android.widget.RelativeLayout{28c3ca0 V.E...... ........ 0,-130-1080,160}
+                android.widget.ImageView{3eec059 V.ED..... ........ 24,97-120,193 #7f090028 app:id/icon}
+                android.widget.TextView{919341e V.ED..... ........ 120,0-1080,290 #7f090029 app:id/name}
+              android.widget.RelativeLayout{ad084ff V.E...... ........ 0,162-1080,298}
+                android.widget.ImageView{f8882cc V.ED..... ........ 24,20-120,116 #7f090028 app:id/icon}
+                android.widget.TextView{ac20915 V.ED..... ........ 120,0-1080,136 #7f090029 app:id/name}
+              android.widget.RelativeLayout{ea0742a V.E...... ........ 0,300-1080,436}
+                android.widget.ImageView{32721b V.ED..... ........ 24,20-120,116 #7f090028 app:id/icon}
+                android.widget.TextView{20ffb8 V.ED..... ........ 120,0-1080,136 #7f090029 app:id/name}
+              android.widget.RelativeLayout{c472191 V.E...... ........ 0,438-1080,574}
+                android.widget.ImageView{da9a8f6 V.ED..... ........ 24,20-120,116 #7f090028 app:id/icon}
+                android.widget.TextView{6fc14f7 V.ED..... ........ 120,0-1080,136 #7f090029 app:id/name}
+              android.widget.RelativeLayout{5c25f64 V.E...... ........ 0,576-1080,712}
+                android.widget.ImageView{82b45cd V.ED..... ........ 24,20-120,116 #7f090028 app:id/icon}
+                android.widget.TextView{33f5e82 V.ED..... ........ 120,0-1080,136 #7f090029 app:id/name}
+              android.widget.RelativeLayout{b530993 V.E...... ........ 0,714-1080,850}
+                android.widget.ImageView{9f80dd0 V.ED..... ........ 24,20-120,116 #7f090028 app:id/icon}
+                android.widget.TextView{1b371c9 V.ED..... ........ 120,0-1080,136 #7f090029 app:id/name}
+              android.widget.RelativeLayout{88e0ce V.E...... ........ 0,852-1080,988}
+                android.widget.ImageView{c1aabef V.ED..... ........ 24,20-120,116 #7f090028 app:id/icon}
+                android.widget.TextView{19836fc V.ED..... ........ 120,0-1080,136 #7f090029 app:id/name}
+              android.widget.RelativeLayout{1786185 V.E...... ........ 0,990-1080,1126}
+                android.widget.ImageView{fd63bda V.ED..... ........ 24,20-120,116 #7f090028 app:id/icon}
+                android.widget.TextView{910180b V.ED..... ........ 120,0-1080,136 #7f090029 app:id/name}
+              android.widget.RelativeLayout{6afc6e8 V.E...... ........ 0,1128-1080,1264}
+                android.widget.ImageView{6e29101 V.ED..... ........ 24,20-120,116 #7f090028 app:id/icon}
+                android.widget.TextView{e6c3ba6 V.ED..... ........ 120,0-1080,136 #7f090029 app:id/name}
+              android.widget.RelativeLayout{6a629e7 V.E...... ........ 0,1266-1080,1402}
+                android.widget.ImageView{52e6994 V.ED..... ........ 24,20-120,116 #7f090028 app:id/icon}
+                android.widget.TextView{5663c3d V.ED..... ........ 120,0-1080,136 #7f090029 app:id/name}
+              android.widget.RelativeLayout{7106c32 V.E...... ........ 0,1404-1080,1540}
+                android.widget.ImageView{3a17d83 V.ED..... ........ 24,20-120,116 #7f090028 app:id/icon}
+                android.widget.TextView{6528b00 V.ED..... ........ 120,0-1080,136 #7f090029 app:id/name}
+              android.widget.RelativeLayout{97f5f39 V.E...... ........ 0,1542-1080,1678}
+                android.widget.ImageView{955197e V.ED..... ........ 24,20-120,116 #7f090028 app:id/icon}
+                android.widget.TextView{c746edf V.ED..... ........ 120,0-1080,136 #7f090029 app:id/name}
+    Looper (main, tid 1) {b73282b}
+      (Total messages: 0, polling=false, quitting=false)

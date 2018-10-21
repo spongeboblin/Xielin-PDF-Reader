@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Πλοήγηση στην αρχική σελίδα"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Πλοήγηση προς τα επάνω"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Περισσότερες επιλογές"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Τέλος"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Προβολή όλων"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Επιλέξτε κάποια εφαρμογή"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ΑΠΕΝΕΡΓΟΠΟΙΗΣΗ"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ΕΝΕΡΓΟΠΟΙΗΣΗ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Αναζήτηση…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Διαγραφή ερωτήματος"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Ερώτημα αναζήτησης"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Αναζήτηση"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Υποβολή ερωτήματος"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Φωνητική αναζήτηση"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Κοινή χρήση με"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Κοινή χρήση με %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Σύμπτυξη"</string>
+    <string name="accept">Αποδοχή</string>
+    <string name="app_name">MuPDF</string>
+    <string name="cancel">Ακύρωση</string>
+    <string name="cannot_open_buffer">Αδυναμία ανοίγματος buffer </string>
+    <string name="cannot_open_document">Αδυναμία ανοίγματος εγγράφου</string>
+    <string name="cannot_open_document_Reason">Αδυναμία ανοίγματος εγγράφου: %1$s</string>
+    <string name="cannot_open_file_Path">Αδυναμία ανοίγματος αρχείου: %1$s</string>
+    <string name="choose_value">Επιλογή τιμής</string>
+    <string name="copied_to_clipboard">Αντιγράφηκε στο πρόχειρο</string>
+    <string name="copy">Αντιγραφή</string>
+    <string name="copy_text">αντιγραφή κειμένου</string>
+    <string name="copy_text_to_the_clipboard">Αντιγραφή κειμένου στο πρόχειρο</string>
+    <string name="delete">Διαγραφή</string>
+    <string name="dismiss">Ματαίωση</string>
+    <string name="document_has_changes_save_them_">Το έγγραφο έχει αλλαγές. Να αποθηκευτούν;</string>
+    <string name="draw_annotation">Σχεδίαση σχολίου</string>
+    <string name="edit_annotations">Επεξεργασία σχολίων</string>
+    <string name="enter_password">Πληκτρολογήστε κωδικό πρόσβασης</string>
+    <string name="entering_reflow_mode">Είσοδος σε λειτουργία δυναμικής προσαρμογής</string>
+    <string name="fill_out_text_field">Συμπλήρωση πεδίου κειμένου</string>
+    <string name="format_currently_not_supported">Αυτή η μορφή δεν υποστηρίζεται τη δεδομένη στιγμή</string>
+    <string name="highlight">Επισήμανση</string>
+    <string name="ink">Γραφή</string>
+    <string name="leaving_reflow_mode">Έξοδος από λειτουργία δυναμικής προσαρμογής</string>
+    <string name="more">Περισσότερο</string>
+    <string name="no">Όχι</string>
+    <string name="no_further_occurrences_found">Δεν βρέθηκαν άλλες εμφανίσεις</string>
+    <string name="no_media_hint">Η κοινή χρήση του αποθηκευτικού μέσου με έναν υπολογιστή μπορεί να το καταστήσει μη προσβάσιμο</string>
+    <string name="no_media_warning">Δεν υπάρχει αποθηκευτικό μέσο</string>
+    <string name="no_text_selected">Δεν έχει επιλεγεί κείμενο</string>
+    <string name="not_supported">Δεν υποστηρίζεται</string>
+    <string name="nothing_to_save">Δεν υπάρχει περιεχόμενο για αποθήκευση</string>
+    <string name="okay">ΟΚ</string>
+    <string name="outline_title">Πίνακας περιεχομένων</string>
+    <string name="parent_directory">[Ένα επίπεδο επάνω]</string>
+    <string name="picker_title_App_Ver_Dir">%1$s %2$s: %3$s</string>
+    <string name="print">Εκτύπωση</string>
+    <string name="print_failed">Η εκτύπωση απέτυχε</string>
+    <string name="save">Αποθήκευση</string>
+    <string name="search">Αναζήτηση</string>
+    <string name="search_backwards">Αναζήτηση προς τα πίσω</string>
+    <string name="search_document">Αναζήτηση εγγράφου</string>
+    <string name="search_forwards">Αναζήτηση προς τα μπροστά</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Αναζήτηση"</string>
+    <string name="searching_">Αναζήτηση&amp;#8230;</string>
+    <string name="select">Επιλογή</string>
+    <string name="select_text">Επιλογή κειμένου</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="strike_out">Διακριτή διαγραφή</string>
+    <string name="text_not_found">Δεν βρέθηκε το κείμενο</string>
+    <string name="toggle_links">Επισήμανση και ενεργοποίηση συνδέσεων</string>
+    <string name="underline">Υπογράμμιση</string>
+    <string name="yes">Ναι</string>
+</resources>

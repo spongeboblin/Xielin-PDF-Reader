@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Mag-navigate patungo sa home"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Mag-navigate pataas"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Higit pang mga opsyon"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Tapos na"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Tingnan lahat"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Pumili ng isang app"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"I-OFF"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"I-ON"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Maghanap…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"I-clear ang query"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Query sa paghahanap"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Maghanap"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Isumite ang query"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Paghahanap gamit ang boses"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Ibahagi sa/kay"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Ibahagi sa/kay %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"I-collapse"</string>
+    <string name="accept">Tanggapin</string>
+    <string name="app_name">MuPDF</string>
+    <string name="cancel">Kanselahin</string>
+    <string name="cannot_open_buffer">Hindi mabuksan ang buffer</string>
+    <string name="cannot_open_document">Hindi mabuksan ang dokumento</string>
+    <string name="cannot_open_document_Reason">Hindi mabuksan ang dokumentong: %1$s</string>
+    <string name="cannot_open_file_Path">Hindi mabuksan ang file na: %1$s</string>
+    <string name="choose_value">Pumili ng halaga</string>
+    <string name="copied_to_clipboard">Kinopya sa clipboard</string>
+    <string name="copy">Kopyahin</string>
+    <string name="copy_text">kopyahin ang teksto</string>
+    <string name="copy_text_to_the_clipboard">Kopyahin ang teksto sa clipboard</string>
+    <string name="delete">Alisin</string>
+    <string name="dismiss">Umalis</string>
+    <string name="document_has_changes_save_them_">May mga pagbabago sa dokumento. I-save ang mga ito?</string>
+    <string name="draw_annotation">Gumuhit ng anotasyon</string>
+    <string name="edit_annotations">I-edit ang mga anotasyon</string>
+    <string name="enter_password">Ilagay ang password</string>
+    <string name="entering_reflow_mode">Pumapasok sa reflow mode</string>
+    <string name="fill_out_text_field">Punan ang puwang para sa teksto</string>
+    <string name="format_currently_not_supported">Ang format ay kasalukuyang hindi gumagana dito</string>
+    <string name="highlight">I-highlight</string>
+    <string name="ink">Lagdaan (Ink)</string>
+    <string name="leaving_reflow_mode">Umaalis sa reflow mode</string>
+    <string name="more">Higit pa</string>
+    <string name="no">Hindi</string>
+    <string name="no_further_occurrences_found">Walang nahanap na karagdagang paglitaw</string>
+    <string name="no_media_hint">Ang pagbabahagi ng storage media sa isang PC ay gagawin itong hindi magagamit</string>
+    <string name="no_media_warning">Walang storage media</string>
+    <string name="no_text_selected">Walang piniling teksto</string>
+    <string name="not_supported">Hindi gumagana dito</string>
+    <string name="nothing_to_save">Walang ise-save</string>
+    <string name="okay">Okay</string>
+    <string name="outline_title">Talaan ng Nilalaman</string>
+    <string name="parent_directory">[Umakyat ng isang antas]</string>
+    <string name="picker_title_App_Ver_Dir">%1$s %2$s: %3$s</string>
+    <string name="print">I-print</string>
+    <string name="print_failed">Hindi nai-print</string>
+    <string name="save">I-save</string>
+    <string name="search">Maghanap</string>
+    <string name="search_backwards">Maghanap pabalik</string>
+    <string name="search_document">Maghanap sa dokumento</string>
+    <string name="search_forwards">Maghanap nang pasulong</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Maghanap"</string>
+    <string name="searching_">Hinahanap ang&amp;#8230;</string>
+    <string name="select">Piliin</string>
+    <string name="select_text">Piliin ang teksto</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="strike_out">Guhitan ang teksto (strike-out)</string>
+    <string name="text_not_found">Hindi nahanap ang teksto</string>
+    <string name="toggle_links">I-highlight at paganahin ang mga link</string>
+    <string name="underline">Guhitan</string>
+    <string name="yes">Oo</string>
+</resources>
